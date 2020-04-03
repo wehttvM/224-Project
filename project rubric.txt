@@ -1,0 +1,44 @@
+wireless
+static
+VPS
+VPN
+VLAN
+access point
+upgradeability
+update ability
+update components or models
+20
+10
+
+slim client?
+physical clients?
+printers?
+client software
+HVAC
+Fire suppression
+specifics technicalities w tiers
+key cards
+key fobs
+authentications
+passcode rooms
+additions to cost to sum up for labor costs
+voltage meter
+wired tools
+fiber optic tools
+
+need to know what wire gauge
+AWG can help look it up
+
+find out how to show schematic drawings of fiber connections maybe based on color code
+
+apache for website
+transcode sever
+SQL server
+CDNs
+firewall
+router
+WIFI
+backup server for SQL
+RDP remote desktop for employees
+
+tier 1 more internet service providers

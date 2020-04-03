@@ -1,0 +1,40 @@
+tier 1
+CDNs will all have a massive amount of ram
+will have massive storage in raid
+each CDN will have its own firewall
+all files will be encoded and compressed
+backup offsite and onsite
+buy a highend firewall
+inap
+internet
+
+tier 2
+
+tier 3
+convergence
+build own firewall
+
+
+topics
+diagram -
+contingency - HVAC hacked into rsync, power backups, Uninterruptible Power Supply (UPS)
+workhours -
+troubleshooting
+notification - email
+cabling -
+
+
+rsync
+good for integrity of system
+
+
+diagram plots topology
+apache server
+data server
+firewall - opensuse pfsense cisco
+backup server - hardened red hat backup?
+VM server
+transcoding server
+remote offsite backup
+printer server
+VPN Server

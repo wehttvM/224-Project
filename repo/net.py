@@ -14,7 +14,7 @@ Central_North = 'Chicago, United States of America'
 Central_South = 'Houston, United States of America'
 Central_East = 'Washington DC, United States of America'
 # 1 loactation for tier 3
-Central_West = 'San Fransico, United States of America'
+Central_West = 'San Fransisco, United States of America'
 Node_List_tier_1 = [Central_West, Central_East, Central_South, Central_North, North_America, Asia, South_America, Australia, Europe, East_Asia]
 Node_List_tier_2 = [Central_West, Central_East, Central_South, Central_North, North_America]
 Node_List_tier_3 = [Central_West]
