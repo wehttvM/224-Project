@@ -1,6 +1,18 @@
 import matplotlib.pyplot as plt
 from networkx import nx
 
+# topology servers
+# apache server
+# data server
+# SQL account server w/ hvac permissions & groups
+# firewall - opensuse pfsense cisco
+# backup server - hardened red hat backup?
+# VM server
+# transcoding server
+# remote offsite backup
+# printer server
+# VPN Server
+
 # loctations
 # 10 locations for tier 1
 East_Asia = 'Moscow, Russia'
