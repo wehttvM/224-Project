@@ -26,15 +26,3 @@ cabling -
 
 rsync
 good for integrity of system
-
-
-diagram plots topology
-apache server
-data server
-firewall - opensuse pfsense cisco
-backup server - hardened red hat backup?
-VM server
-transcoding server
-remote offsite backup
-printer server
-VPN Server
